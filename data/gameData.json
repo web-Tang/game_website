@@ -1,0 +1,152 @@
+[
+  {
+    "titleName": "新品端游排行榜",
+    "domId": null,
+    "dataList": [
+      {
+        "id": "xpdy_001",
+        "ranking": 1,
+        "name": "FIFA Online 4",
+        "imgUrl": "fifa.jpg"
+      },
+      {
+        "id": "xpdy_002",
+        "ranking": 2,
+        "name": "NBA2K Online2",
+        "imgUrl": "nba2.png"
+      },
+      {
+        "id": "xpdy_003",
+        "ranking": 3,
+        "name": "天涯明月刀",
+        "imgUrl": "tymyd.jpg"
+      },
+      {
+        "id": "xpdy_004",
+        "ranking": 4,
+        "name": "剑灵",
+        "imgUrl": "jl.jpg"
+      },
+      {
+        "id": "xpdy_005",
+        "ranking": 5,
+        "name": "穿越火线",
+        "imgUrl": "cchx.jpg"
+      },
+      {
+        "id": "xpdy_006",
+        "ranking": 6,
+        "name": "逆战",
+        "imgUrl": "nz.png"
+      },
+      {
+        "id": "xpdy_007",
+        "ranking": 7,
+        "name": "QQ炫舞",
+        "imgUrl": "qqxw.png"
+      },
+      {
+        "id": "xpdy_008",
+        "ranking": 8,
+        "name": "使命召唤Online",
+        "imgUrl": "smzh.jpg"
+      }
+    ]
+  },
+  {
+    "titleName": "热门端游排行榜",
+    "domId": null,
+    "dataList": [
+      {
+        "id": "rm_001",
+        "ranking": 1,
+        "name": "英雄联盟",
+        "imgUrl": "yxlm.jpg"
+      },
+      {
+        "id": "rm_002",
+        "ranking": 2,
+        "name": "穿越火线",
+        "imgUrl": "cchx.jpg"
+      },
+      {
+        "id": "rm_003",
+        "ranking": 3,
+        "name": "地下城与勇士",
+        "imgUrl": "dnf.jpg"
+      },
+      {
+        "id": "rm_004",
+        "ranking": 4,
+        "name": "天涯明月刀",
+        "imgUrl": "tymydol.jpg"
+      },
+      {
+        "id": "rm_005",
+        "ranking": 5,
+        "name": "QQ炫舞",
+        "imgUrl": "qqxw.png"
+      },
+      {
+        "id": "rm_006",
+        "ranking": 6,
+        "name": "剑灵",
+        "imgUrl": "jl.jpg"
+      },
+      {
+        "id": "rm_007",
+        "ranking": 7,
+        "name": "FIFA Online4",
+        "imgUrl": "fifa.jpg"
+      },
+      {
+        "id": "rm_008",
+        "ranking": 8,
+        "name": "逆战",
+        "imgUrl": "nz.png"
+      },
+      {
+        "id": "rm_009",
+        "ranking": 9,
+        "name": "NBA2K Online 2",
+        "imgUrl": "nba2.png"
+      }
+    ]
+  },
+  {
+    "titleName": "新品手游排行榜",
+    "domId": null,
+    "dataList": [
+      {
+        "id": "xpsy_001",
+        "ranking": 1,
+        "name": "雪鹰领主",
+        "imgUrl": "xylz.jpg"
+      },
+      {
+        "id": "xpsy_002",
+        "ranking": 2,
+        "name": "火影忍者",
+        "imgUrl": "hyrz.jpg"
+      },
+      {
+        "id": "xpsy_003",
+        "ranking": 3,
+        "name": "欢乐斗地主",
+        "imgUrl": "hlddz.png"
+      },
+      {
+        "id": "xpsy_004",
+        "ranking": 4,
+        "name": "天天爱消除",
+        "imgUrl": "atm.jpg"
+      },
+      {
+        "id": "xpsy_005",
+        "ranking": 5,
+        "name": "QQ飞车",
+        "imgUrl": "qqfc.jpg"
+      }
+    ]
+  }
+]

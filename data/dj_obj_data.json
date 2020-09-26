@@ -1,0 +1,63 @@
+{
+  "name": "道聚城推荐",
+  "data0": [
+    {
+      "imgUrl": "36.jpg",
+      "title": "服务器喇叭",
+      "price": "1500"
+    },
+    {
+      "imgUrl": "36.jpg",
+      "title": "服务器喇叭",
+      "price": "1500"
+    }
+  ],
+  "data1": [
+    {
+      "imgUrl": "2660411.jpg",
+      "title": "成长契约",
+      "price": "1200"
+    },
+    {
+      "imgUrl": "2660411.jpg",
+      "title": "成长契约",
+      "price": "1200"
+    }
+  ],
+  "data2": [
+    {
+      "imgUrl": "10007473.jpg",
+      "title": "幸运魔锤",
+      "price": "100"
+    },
+    {
+      "imgUrl": "10007473.jpg",
+      "title": "幸运魔锤",
+      "price": "100"
+    }
+  ],
+  "data3": [
+    {
+      "imgUrl": "51.jpg",
+      "title": "无限猫头鹰",
+      "price": "1600"
+    },
+    {
+      "imgUrl": "51.jpg",
+      "title": "无限猫头鹰",
+      "price": "1600"
+    }
+  ],
+  "data4": [
+    {
+      "imgUrl": "21.jpg",
+      "title": "装扮合成器",
+      "price": "1607"
+    },
+    {
+      "imgUrl": "21.jpg",
+      "title": "装扮合成器",
+      "price": "1607"
+    }
+  ]
+}

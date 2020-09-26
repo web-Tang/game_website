@@ -1,0 +1,52 @@
+.pm_wrap {
+  position: absolute;
+  right: 16px;
+  top: 42px;
+  background-color: #fafafa;
+  width: 710px;
+  height: 550px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px;
+  .pm_wrap_1 p {
+    font-size: 14px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    color: #333;
+    span {
+      color: #e6e6e6;
+      float: right;
+    }
+  }
+  ul li {
+    width: 200px;
+    color: #333333;
+    position: relative;
+    padding-bottom: 30px;
+    .ranking_css {
+      height: 16px;
+      width: 100%;
+      display: flex;
+      font-size: 12px;
+      span {
+        width: 16px;
+        height: 16px;
+        background-color: #cccccc;
+        color: #fff;
+        line-height: 16px;
+        text-align: center;
+        font-size: 12px;
+        margin-right: 5px;
+        &.top_three {
+          background-color: #c62828;
+        }
+      }
+    }
+    &.active {
+      height: 90px;
+      & > .area {
+        display: block;
+      }
+    }
+  }
+}
